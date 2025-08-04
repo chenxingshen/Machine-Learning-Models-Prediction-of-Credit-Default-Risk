@@ -7,3 +7,8 @@ The models were trained with feature selection, encoding, and scaling. They were
 
 ## Keywords
 Credit risk, machine learning, classification models, financial decision-making, LightGBM, interpretability.
+
+## Files
+1. Data.xls - the dataset for the use which can be find here: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+2. Mainedited.py - code
+3. Report - Decription of the approach and result
